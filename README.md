@@ -134,5 +134,3 @@ The long-term vision is simple: **help people communicate normally while making 
 - 📄 Detailed walkthrough or demo available **on request**
 
 ---
-
-*Developed by Navaneethan K | Android • Java • XML • Firebase*
